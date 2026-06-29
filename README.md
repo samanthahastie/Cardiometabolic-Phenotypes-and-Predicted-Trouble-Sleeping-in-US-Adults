@@ -6,6 +6,10 @@ Contributors: Yasthil Singh, Seema Guruvadoo, and Samantha Hastie
 
 Project Description: This project explores cardiometabolic phenotypes in NHANES data in order to evaluate if the addition of phenotype membership improves prediction of sleep trouble beyond an initial supervised model.
 
+## Data
+
+The data used is provided in the "data" folder in this repository. It is NHANES data initially located at https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020
+
 ## Setup
 
 This project uses Python with Jupyter notebooks for data analysis and modeling.
