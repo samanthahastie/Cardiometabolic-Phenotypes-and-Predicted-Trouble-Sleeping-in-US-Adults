@@ -6,8 +6,6 @@ statsmodels
 matplotlib
 seaborn
 jupyter
-ipywidgets
 pyreadstat
-shap
 umap-learn
 xgboost
