@@ -33,9 +33,11 @@ This project uses Python with Jupyter notebooks for data analysis and modeling.
 
 ## Data
 
-The repository includes NHANES `.xpt` files under `data/`, organized by source category:
+The notebook loads NHANES `.xpt` files from the repository's `data/` folder by default. The data are organized by source category:
 
 - `data/Demographic/`
 - `data/Examination/`
 - `data/Lab/`
 - `data/Questionnaire/`
+
+If running the notebook in Google Colab with Google Drive, mount Drive and update the `DATA_DIR` variable near the top of `main_branch.ipynb` to point to the Drive data folder.
